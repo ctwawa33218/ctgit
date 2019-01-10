@@ -17,6 +17,8 @@ int main(int argc, char* argv[])
     //Now add yyy
     //Now in xxx
 	//master add this line.
+
+	printf("I hope I can do it.\n");
  
   return 0;
 }
