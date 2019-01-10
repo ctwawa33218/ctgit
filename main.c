@@ -11,6 +11,8 @@ int main(int argc, char* argv[])
 
 	printf("CT, hope to do it.\n");
 	//master add this line.
+
+	printf("I hope I can do it.\n");
  
   return 0;
 }
