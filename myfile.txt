@@ -1,2 +1,3 @@
 myfile.txt
 Only in issue2
+Only in issue3
