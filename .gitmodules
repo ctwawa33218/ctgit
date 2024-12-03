@@ -1,3 +1,6 @@
 [submodule "winni_20190121"]
 	path = winni_20190121
 	url = https://github.com/ctwawa33218/winni_20190121.git
+[submodule "winni_PD2_final"]
+	path = winni_PD2_final
+	url = https://github.com/a303403503603/PD2_final
