@@ -1,0 +1,25 @@
+From 156be2cc64a3d34ec7eb57b1760e8a47de9f8391 Mon Sep 17 00:00:00 2001
+From: "c.t.yen" <c.t.yen@quantatw.com>
+Date: Thu, 23 Feb 2023 15:58:01 +0800
+Subject: [PATCH] Patty can do more.
+
+---
+ patty.c | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+diff --git a/patty.c b/patty.c
+index e6df491..202264b 100644
+--- a/patty.c
++++ b/patty.c
+@@ -1,3 +1,8 @@
+ int patty(){
+ 	printf("You can do more in your work!");
++	printf("You can do more in your work!");
++	printf("You can do more in your work!");
++	printf("You can do more in your work!");
++	printf("You can do more in your work!");
++	printf("You can do more in your work!");
+ }
+-- 
+2.34.1
+
